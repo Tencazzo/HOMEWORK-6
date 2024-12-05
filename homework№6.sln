@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "metodichka", "metodichka.csproj", "{766A24B4-2C36-4EB5-8F7D-4B1D2A30D3AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Failik", "Failik\Failik.csproj", "{98EBB0DD-9061-4D53-857B-3272BD084393}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{766A24B4-2C36-4EB5-8F7D-4B1D2A30D3AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{766A24B4-2C36-4EB5-8F7D-4B1D2A30D3AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{766A24B4-2C36-4EB5-8F7D-4B1D2A30D3AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{766A24B4-2C36-4EB5-8F7D-4B1D2A30D3AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EBB0DD-9061-4D53-857B-3272BD084393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EBB0DD-9061-4D53-857B-3272BD084393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EBB0DD-9061-4D53-857B-3272BD084393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EBB0DD-9061-4D53-857B-3272BD084393}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25FB4D2E-4CDF-42DB-86B2-B313B1DE1545}
+	EndGlobalSection
+EndGlobal
